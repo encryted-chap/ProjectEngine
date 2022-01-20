@@ -3,7 +3,7 @@ using SFML.Window;
 using SFML;
 using System;
 
-namespace Engine.Core {
+namespace Engine.Devel {
     public class Window {
         /// <summary>
         /// Initializes a window using width and height,

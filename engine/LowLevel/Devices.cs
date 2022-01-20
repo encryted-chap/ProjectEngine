@@ -3,3 +3,7 @@
     *   such as the Keyboard, Mouse, and eventually 
     *   Gamepads and such.
 */
+
+namespace Engine.Devel {
+    
+}
