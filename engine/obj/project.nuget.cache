@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qv5xhwDv+Kxwo68zUKp+CBq5LMzifVeHjVGiLJk0d0p6r1dfhb7HCBlImvxyhTndT4ysTylCohJnd/RI8sUqMw==",
+  "dgSpecHash": "e7ovXkt/qjUo4G2j+ei9DY6ISGOnNijw/nDnDHWHcbDxbDtStlhj/cdAEUfLE4FCsiITqrv6ITaylXahI7KxKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\awkward\\Desktop\\Eng\\engine\\engine.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "C:\\Users\\awkward\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
     "C:\\Users\\awkward\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
     "C:\\Users\\awkward\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
-    "C:\\Users\\awkward\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+    "C:\\Users\\awkward\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512",
+    "C:\\Users\\awkward\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.13\\microsoft.netcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\awkward\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\awkward\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.13\\microsoft.aspnetcore.app.runtime.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

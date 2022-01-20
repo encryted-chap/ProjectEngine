@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj": {}
+    "c:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj": {
+    "c:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj",
+        "projectUniqueName": "c:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj",
+        "projectPath": "c:\\Users\\awkward\\Desktop\\Eng\\project\\project.csproj",
         "packagesPath": "C:\\Users\\awkward\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\awkward\\Desktop\\Eng\\project\\obj\\",
+        "outputPath": "c:\\Users\\awkward\\Desktop\\Eng\\project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\awkward\\Desktop\\Eng\\project\\NuGet.Config",
+          "c:\\Users\\awkward\\Desktop\\Eng\\project\\NuGet.Config",
           "C:\\Users\\awkward\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -27,8 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\awkward\\Desktop\\Eng\\project\\References": {},
           "C:\\Users\\nicol\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "c:\\Users\\awkward\\Desktop\\Eng\\project\\References": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.emzi0767.com/api/v3/index.json": {}
         },

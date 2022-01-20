@@ -5,5 +5,9 @@
 */
 
 namespace Engine.Devel {
-    
+    // main dev use only class for
+    // the keyboard manager
+    public class DKeyboard {
+        
+    }
 }
